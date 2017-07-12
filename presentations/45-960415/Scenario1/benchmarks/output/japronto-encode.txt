@@ -1,0 +1,13 @@
+Running 20s test @ http://localhost:8080/encode
+  1 threads and 10 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   473.97us  192.15us  10.35ms   97.52%
+    Req/Sec    20.88k     1.14k   22.44k    85.00%
+  Latency Distribution
+     50%  460.00us
+     75%  473.00us
+     90%  499.00us
+     99%  795.00us
+  415460 requests in 20.00s, 655.73MB read
+Requests/sec:  20768.77
+Transfer/sec:     32.78MB
