@@ -1,0 +1,16 @@
+import base64
+
+from bottle import run, route
+
+
+@app.route('/encode', method='POST')
+def encode():
+    text = request.json.get['text']
+    retData = base64.b64decode(text.encode('utf-8')).decode('utf-8')
+    return {'encoded': retData}
+
+@app.route('/decode', method='POST')
+def decode():
+    text = request.json.get['text']
+    retData = base64.b64decode(text.encode('utf-8')).decode('utf-8')
+    return {'decoded': retData}

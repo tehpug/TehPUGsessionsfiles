@@ -1,0 +1,13 @@
+Running 20s test @ http://localhost:8083/decode
+  1 threads and 10 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     4.59ms  720.05us  15.53ms   85.37%
+    Req/Sec     2.19k   194.35     2.52k    66.50%
+  Latency Distribution
+     50%    4.42ms
+     75%    4.78ms
+     90%    5.39ms
+     99%    7.25ms
+  43613 requests in 20.05s, 54.36MB read
+Requests/sec:   2175.42
+Transfer/sec:      2.71MB
