@@ -47,7 +47,7 @@ class RecipeExtractor(scrapy.Spider):
                                 )
 
         if next_page:
-            yield scrapy.Request(1
+            yield scrapy.Request(
                                     next_page,
                                     callback=self.parse,
                                     dont_filter=True,
