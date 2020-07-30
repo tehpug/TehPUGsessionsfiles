@@ -1,6 +1,6 @@
 ### DCGAN implementation in python with tensorflow
 
-### Abolfazl Meyarian 
+#### Abolfazl Meyarian 
 - email: 
 	Turingcomputerscience[@]gmail[.]com
 - github:
