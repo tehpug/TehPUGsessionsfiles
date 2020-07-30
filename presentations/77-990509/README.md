@@ -1,5 +1,8 @@
-Mohamad Fazeli
+### Best Practices of Dockerizing Python Apps
 
+A detailed look on ”What to do and What not to do?”
+
+#### Mohamad Fazeli:
 - gmail:
 	caci96[@]gmail[.]com
 - twitter:
@@ -8,6 +11,4 @@ Mohamad Fazeli
     [@Fazel94](https://github.com/Fazel94)
 
 
-**Best Practices of Dockerizing Python Apps**
-A detailed look on ”What to do and What not to do?”
 
