@@ -3,7 +3,7 @@
 - videos : [youtube](https://www.youtube.com/playlist?list=PL_yk4lBuftVPrOkiWHdQ8q-cII3H65aFa)
 
 #### Mahmoud Hashemi:
-- gmail:
+- email:
 	mahmoud[@]hatnote[.]com
 - twitter:
 	[@mhashemi](https://twitter.com/mhashemi)
