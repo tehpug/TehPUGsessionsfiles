@@ -5,7 +5,7 @@ httptools==0.0.9
 mongoengine==0.13.0
 motor==1.1
 pymongo==3.4.0
-sanic==0.5.4
+sanic==20.12.6
 SanicMongo==0.9.4.post1
 six==1.10.0
 ujson==1.35
