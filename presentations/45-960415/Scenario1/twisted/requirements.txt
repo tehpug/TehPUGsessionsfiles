@@ -4,5 +4,5 @@ constantly==15.1.0
 hyperlink==17.2.1
 incremental==17.5.0
 six==1.10.0
-Twisted==17.5.0
+Twisted==22.10.0
 zope.interface==4.4.2
